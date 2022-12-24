@@ -76,7 +76,9 @@
   <!-- <img src="readme_assets/result_page.png" height="auto" width="30%" /> -->
 </div>
 <br />
+
 Todo App that allows to add, remove and mark tasks, using Flutter with custom-widgets ⚖
+
 <!-- Folder Structure -->
 ### :bangbang: Folder Structure
 
