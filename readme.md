@@ -72,8 +72,8 @@
 ## :star2: About the Project
 
 <div align="center"> 
-  <img src="readme_assets/input_page.png" height="auto" width="30%" />
-  <img src="readme_assets/result_page.png" height="auto" width="30%" />
+  <img src="readme_assets/todosens-app.jpg" height="auto" width="75%" />
+  <!-- <img src="readme_assets/result_page.png" height="auto" width="30%" /> -->
 </div>
 <br />
 Todo App that allows to add, remove and mark tasks, using Flutter with custom-widgets ⚖
