@@ -217,9 +217,9 @@ Project Link: [https://github.com/ladunjexa/Todosens-App](https://github.com/lad
 <!-- Acknowledgments -->
 ## :gem: Acknowledgements
 
-This section used to mention useful resources and libraries that used in BMI Calculator App project.
+This section used to mention useful resources and libraries that used in Todosens App project.
 
- - [FontAwesomeFlutter](https://pub.dev/packages/font_awesome_flutter/)
+ - [Google Fonts](https://fonts.google.com/)
  - #FlutterBrew
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
